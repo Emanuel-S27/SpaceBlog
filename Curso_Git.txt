@@ -1,5 +1,12 @@
-Este es el curso profesional de GIT y GitHub
+Este es el curso profesional de GIT y GitHub.
 
-El profesor es Freddy Vega, un emprendedor colombiano de 33 años
+El profesor es Freddy Vega, un emprendedor colombiano de 33 años.
 
-Freddy es el CEO de PLATZI
+Freddy es el CEO de PLATZI.
+
+Este curso enseña a utilizar Git de forma profesional.
+
+Aprende a usar los comandos de la terminal.
+
+Aprende para que sirve este sistema de control de versiones y la mágia que esconde.
+
