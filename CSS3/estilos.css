@@ -1,6 +1,22 @@
+html{
+    font-size: 62.5%;
+}
+
+
 body{
     text-align: center;
     font-family: 'Arial';
+    font-size: 1.6rem;
     color: #98ca3f;
 }
 
+.container{
+    width: 70vw;
+    padding: 1rem;
+    border: 0.1rem solid #0085f4;
+    margin: 0 auto;
+}
+
+.post h1{
+    font-size: 2rem;
+}
