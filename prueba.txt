@@ -1,0 +1,2 @@
+Hola esto es una prueba voy a ingresarlo al repositorio con un commit y luego lo voy a eliminar totalmente 
+con el comando git reset --hard sin embargo guardaré el id del commit para experimentar si puedo rescatarlo
