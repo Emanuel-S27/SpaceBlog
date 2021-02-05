@@ -4,3 +4,4 @@ con el comando git reset --hard sin embargo guardaré el id del commit para expe
 voy a realizar el segundo commit este realmente es el que voy a eliminar, si aparece nuevamente esto es porque lo pude rescatar
 .
 
+Hola amigos!
