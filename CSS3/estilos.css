@@ -54,6 +54,9 @@ body{
 }
 .post h1{
     font-size: 2rem;
+    color: #a4d60d;
+    background-color: black;
+    margin: 3rem 25rem;
 }
 
 p{
