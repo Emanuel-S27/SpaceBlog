@@ -63,3 +63,15 @@ p{
     color: black;
     text-align: justify;
 }
+
+.footer{
+    width: 60vw;
+    padding: 1rem;
+    margin: 2rem auto;
+    background-color: #071C63;
+}   
+
+.footer h5{
+    color: linen;
+    font-size: 1.6rem;
+}
