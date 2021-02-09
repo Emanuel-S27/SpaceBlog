@@ -75,10 +75,9 @@ p{
 
 .footer{
     width: 60vw;
-    padding: 1rem;
-    margin: 2rem auto;
+    margin: 3rem auto;
     background-color: rgb(18, 75, 145);
-    border: inset  navy 2rem ;
+    border: ridge navy 1.6rem ;
 }   
 
 .footer h5{
