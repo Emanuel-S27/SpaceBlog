@@ -6,6 +6,7 @@ body{
     font-family: 'Arial';
     font-size: 1.6rem;
     color: black;
+    background-color: rgb(1, 60, 128);
 }
 .nav{
     width: 80vw;
@@ -35,10 +36,16 @@ body{
     color: white;
     font-weight: bold;
     display: flex;
+    align-items: center;
     margin: 0 auto; 
     margin-top: 5rem;
     padding: 1rem;    
     font-size: 2rem;      
+}
+
+.nombre_loguito{
+    width: 8rem;
+    margin-right: 1rem;
 }
 #nombre_slogan{
     margin-left: 5rem;
@@ -51,7 +58,9 @@ body{
     padding: 1rem;
     border: 0.1rem solid #0085f4;
     margin: 0 auto;
+    background-color: white;
 }
+
 .post h1{
     font-size: 2rem;
     color: #a4d60d;
@@ -60,6 +69,6 @@ body{
 }
 
 p{
-    color: darkred;
+    color: black;
     text-align: justify;
 }
