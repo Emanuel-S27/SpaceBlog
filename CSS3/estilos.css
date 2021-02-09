@@ -77,10 +77,12 @@ p{
     width: 60vw;
     padding: 1rem;
     margin: 2rem auto;
-    background-color: #071C63;
+    background-color: rgb(18, 75, 145);
+    border: inset  navy 2rem ;
 }   
 
 .footer h5{
-    color: linen;
+    color: white;
     font-size: 1.6rem;
+    
 }
