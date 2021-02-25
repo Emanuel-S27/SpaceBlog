@@ -5,3 +5,6 @@ voy a realizar el segundo commit este realmente es el que voy a eliminar, si apa
 .
 
 Hola amigos!
+
+voy a probar git --amend
+:v
